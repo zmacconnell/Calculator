@@ -1,32 +1,29 @@
 # Overview
 
-<!-- {Important! Do not say in this section that this is college assignment. Talk about what you are trying to accomplish as a software engineer to further your learning.}
+This program is an introduction for myself in the Rust language.
 
-{Provide a description of the software that you wrote to demonstrate the Rust language.}
-
-{Describe your purpose for writing this software.}
-
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.} -->
+It is a simple calculator that takes a string and seperates it apart,
+then takes tehh 1st and 3rd parts and turns them into integers. The
+2nd part is then checked against basic mathematical functions to
+calculate the result of the problem.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-<!-- {Describe the tools that you used to develop the software}
+Development of this Rust program was done in VS Code, with the rust-analyzer
+extension to run the program.
 
-{Describe the programming language that you used and any libraries.} -->
+With Rust installed, use the command `cargo run` go start the calculator.
 
 # Useful Websites
-
-<!-- {Make a list of websites that you found helpful in this project} -->
 
 - [Rust Language Website](https://www.rust-lang.org/)
 - [Rust By Example](https://doc.rust-lang.org/rust-by-example/)
 
 # Future Work
 
-<!--{Make a list of things that you need to fix, improve, and add in the future.}-->
-
-- Item 1
-- Item 2
-- Item 3
+- Add in Factorial function
+- Add in log
+- Add in Fibbonaci
+- More mathematical functions to follow

@@ -9,19 +9,19 @@ calculate the result of the problem.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
-# Development Environment
+## Development Environment
 
 Development of this Rust program was done in VS Code, with the rust-analyzer
 extension to run the program.
 
 With Rust installed, use the command `cargo run` go start the calculator.
 
-# Useful Websites
+## Useful Websites
 
 - [Rust Language Website](https://www.rust-lang.org/)
 - [Rust By Example](https://doc.rust-lang.org/rust-by-example/)
 
-# Future Work
+## Future Work
 
 - Add in Factorial function
 - Add in log

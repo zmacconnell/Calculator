@@ -7,7 +7,7 @@ then takes tehh 1st and 3rd parts and turns them into integers. The
 2nd part is then checked against basic mathematical functions to
 calculate the result of the problem.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/bvS4hpAgIHk)
 
 ## Development Environment
 
